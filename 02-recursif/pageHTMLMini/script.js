@@ -1,0 +1,3 @@
+function fonction() {
+  alert("Fonctionnel");
+}
